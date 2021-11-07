@@ -38,3 +38,26 @@ button {
  font-weight: 700;
  font-size: 12pt;
 }
+
+#resposta {
+    opacity: 0;
+
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background: #202020;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #f9f9f9;
+
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+
+    margin-top: 20px;
+
+    font-size: 15pt;
+
+    padding: 15px;
+}
