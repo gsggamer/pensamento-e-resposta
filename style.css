@@ -40,6 +40,13 @@ button {
  font-size: 12pt;
 }
 
+button:hover {
+    background: rgb(255, 212, 146);
+}
+button:active {
+    background: rgb(255, 197, 109);
+}
+
 #resposta {
     opacity: 0;
 

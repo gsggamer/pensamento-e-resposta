@@ -5,7 +5,7 @@ function random(array) {
 let respArea = document.querySelector('#resposta');
 
 let opcoes = [
-    'Sim!', 'Não!', 'Talvez!', 'Pergunte novamente mais tarde!', 'Tudo aponta que sim!'
+    'Sim!', 'Não!', 'Talvez!', 'Pergunte novamente mais tarde!', 'Tudo aponta que sim!', 'Sim!', 'Não!', 'Talvez!', 'Pergunte novamente mais tarde!', 'Tudo aponta que sim!', 'Sim!', 'Não!', 'Talvez!', 'Pergunte novamente mais tarde!', 'Tudo aponta que sim!'
 ];
 
 function resposta() {
