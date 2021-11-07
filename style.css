@@ -27,6 +27,7 @@ h2 {
  padding: 60px 15px;
  min-height: 300px;
  background-color: rgb(145, 0, 0);
+ border-radius: 20px;
 }
 
 button {
